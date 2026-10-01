@@ -5,3 +5,6 @@ seaborn
 scipy
 scikit-learn
 jupyter
+requests
+lxml
+kagglehub
