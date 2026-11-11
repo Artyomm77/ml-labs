@@ -8,3 +8,5 @@ jupyter
 requests
 lxml
 kagglehub
+kneed
+yellowbrick
