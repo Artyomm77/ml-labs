@@ -10,3 +10,4 @@ lxml
 kagglehub
 kneed
 yellowbrick
+scikit-surprise
