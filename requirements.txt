@@ -11,3 +11,5 @@ kagglehub
 kneed
 yellowbrick
 scikit-surprise
+tensorflow
+keras-tuner
